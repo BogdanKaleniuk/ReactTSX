@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: grey;
+  color: #fff;
+  padding: 30px, 20px;
+  font-family: "Golos Text", sans-serif;
+}
+
+.btn {
+  display: block;
+  padding: 6px 40px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  margin: 10px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: #bcd1e6;
+}
